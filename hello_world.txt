@@ -1,0 +1,1 @@
+"Hello World, it's me LokiCoding and this is my first time using Git commands"
